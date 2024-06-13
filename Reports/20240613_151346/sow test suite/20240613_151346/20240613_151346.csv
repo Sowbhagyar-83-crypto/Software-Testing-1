@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+sow test suite,Chrome 125.0.0.0,,,13-06-2024 15:13:53,13-06-2024 15:15:38,1m - 44.990s,FAILED
+,,,,,,,
+Test Cases/Sowbhagyar,Chrome 125.0.0.0,,,13-06-2024 15:14:49,13-06-2024 15:15:01,11.620s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 15:14:49,13-06-2024 15:14:51,2.347s,PASSED
+"navigateToUrl(""https://www.iitm.ac.in/"")",Chrome 125.0.0.0,,,13-06-2024 15:14:51,13-06-2024 15:14:58,6.817s,PASSED
+"click(findTestObject(""Object Repository/sow2/Page_Indian Institute of Technology Madras/div_Toggle Menu""))",Chrome 125.0.0.0,,,13-06-2024 15:14:58,13-06-2024 15:15:00,1.770s,PASSED
+"click(findTestObject(""Object Repository/sow2/Page_Indian Institute of Technology Madras/a_Innovation""))",Chrome 125.0.0.0,,,13-06-2024 15:15:00,13-06-2024 15:15:01,0.658s,FAILED
+,,,,,,,
+Test Cases/sowbhagyar1,Chrome 125.0.0.0,,,13-06-2024 15:15:14,13-06-2024 15:15:38,23.710s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 15:15:14,13-06-2024 15:15:17,2.379s,PASSED
+"navigateToUrl(""https://www.bits-pilani.ac.in/"")",Chrome 125.0.0.0,,,13-06-2024 15:15:17,13-06-2024 15:15:22,5.281s,PASSED
+"click(findTestObject(""Object Repository/bilani/Page_Birla Institute of Technology And Scie_ef109b/a_PLACEMENTS""))",Chrome 125.0.0.0,,,13-06-2024 15:15:22,13-06-2024 15:15:22,0.603s,PASSED
+"click(findTestObject(""Object Repository/bilani/Page_Placements - BITS Pilani/a_Practice School""))",Chrome 125.0.0.0,,,13-06-2024 15:15:22,13-06-2024 15:15:24,1.951s,PASSED
+"click(findTestObject(""Object Repository/bilani/Page_Practice School - BITS Pilani/a_Home""))",Chrome 125.0.0.0,,,13-06-2024 15:15:24,13-06-2024 15:15:30,5.346s,PASSED
+"click(findTestObject(""Object Repository/bilani/Page_Birla Institute of Technology And Scie_ef109b/a_Career""))",Chrome 125.0.0.0,,,13-06-2024 15:15:30,13-06-2024 15:15:33,3.130s,PASSED
+"click(findTestObject(""Object Repository/bilani/Page_Career - BITS Pilani/a_Home""))",Chrome 125.0.0.0,,,13-06-2024 15:15:33,13-06-2024 15:15:36,3.399s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,13-06-2024 15:15:36,13-06-2024 15:15:38,1.588s,PASSED
